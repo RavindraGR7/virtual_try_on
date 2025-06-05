@@ -1,2 +1,2 @@
 # virtual_try_on
-🌍 Global Attire: Virtual Try-On for Traditional Clothing
+🌍 Global Attire: An AI-powered virtual try-on platform helping immigrants wear traditional clothing with perfect fit and cultural authenticity.
